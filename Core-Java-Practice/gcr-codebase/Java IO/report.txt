@@ -1,0 +1,3 @@
+Name: Rahul  Average: 85.0
+Name: Aman  Average: 75.0
+Name: Priya  Average: 94.33333333333333
